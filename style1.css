@@ -1,0 +1,9 @@
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform:lowercase;
+}
+
+/*
+style1 text-transform: serve para deixar as letras tanto maiusculas como minusculas ou primeira letra de cada palavra em maiuscula. uppercase

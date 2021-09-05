@@ -1,0 +1,15 @@
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+	text-shadow: xpx ypx zpx color;
+}
+
+p1{
+	width: 650px;
+	text-align: justify;
+}
+
+/* style12 O zpx desfoca a sombra */

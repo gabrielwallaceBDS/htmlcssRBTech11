@@ -1,0 +1,283 @@
+h1{
+	color: #hexade;
+}
+
+/*
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+}
+
+style0 letter-spacing:xpx; espacamento entre as letras pode ser tanto positivo como negativo
+
+/*
+
+
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform:lowercase;
+}
+
+
+style1 text-transform: serve para deixar as letras tanto maiusculas como minusculas ou primeira letra de cada palavra em maiuscula. uppercase
+
+/*
+
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform:capitalize;
+}
+
+style2 text-transform:capitalize; transforma somente a primeira letra de cada palavra em maiosciulo
+/*
+
+
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: ;
+}
+
+/* style3
+----------------------------------------------------------
+
+
+ 
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+}
+p1{
+	text-indent: 50px;
+}
+
+/*
+style4 Fazer endentacao no primeiro paragrafo do texto
+*/
+/*
+
+
+ 
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+}
+
+p1{
+	width: 650px;
+}
+
+/*
+style5 formatar o texto conforme a necessidade
+*/
+/*
+
+
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+}
+
+p1{
+	width: 650px;
+	text-align: right;
+}
+
+/* style6 escolher o alinhamento a direita */
+/*
+
+
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+}
+
+p1{
+	width: 650px;
+	text-align: center;
+}
+
+
+/* style7 escolher o alinhamento a centro*/
+
+/*
+
+
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+}
+
+p1{
+	width: 650px;
+	text-align: left;
+}
+
+
+/* style8 escolher o alinhamento a esquerda */
+/*
+
+
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+}
+
+p1{
+	width: 650px;
+	text-align: justify;
+}
+
+
+/* style9 escolher o alinhamento a justificado */
+/*
+
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+	text-shadow: xpx xpx color;
+}
+
+p1{
+	width: 650px;
+	text_align: justify;
+}
+
+
+
+
+/* style10 escolher a quantidade de sombra para escolher na horizontal 
+depois a quantidade de sombra na vertical e depois a cor.*/
+
+/*
+
+
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+	text-shadow: xpx ypx color;
+}
+
+p1{
+	width: 650px;
+	text-align: justify;
+}
+
+
+
+
+/* style11 escolher a quantidade de sombra para escolher na horizontal depois 
+a quantidade de sombra na vertical e depois a cor. a sombra pode ser negativo ou positivo.
+*/
+/*
+
+
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+	text-shadow: xpx ypx zpx color;
+}
+
+p1{
+	width: 650px;
+	text-align: justify;
+}
+
+/* style12 O zpx desfoca a sombra */
+
+/*
+
+
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+	text-shadow: xpx ypx zpx color;
+}
+
+p{
+	width: 650px;
+	
+}
+
+
+/* style13 Formatando somente o p */
+
+ 
+/*
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+	text-shadow: xpx ypx zpx color;
+}
+
+p{
+	width: 650px;
+	font-size: 20px;
+	
+}
+
+
+/* style14 font-size aumenta o tamanho da fonte */
+
+-----------------------------------------------------------------  
+/*
+
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+	text-shadow: xpx ypx zpx color;
+}
+
+p{
+	width: 650px;
+	font-size: 20px;
+	font-family: verdana, arial, sans-serif;
+	
+}
+
+/*style15 Escolhe uma familia de fontes que serao utilizadas pela aplicacao
+pode-se utilizar o google fonts*/ 
+
+
+

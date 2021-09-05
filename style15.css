@@ -1,0 +1,18 @@
+
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+	text-shadow: xpx ypx zpx color;
+}
+
+p{
+	width: 650px;
+	font-size: 20px;
+	font-family: verdana, arial, sans-serif;
+	
+}
+
+/*style15 Escolhe uma familia de fontes que serao utilizadas pela aplicacao
+pode-se utilizar o google fonts*/ 

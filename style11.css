@@ -1,0 +1,19 @@
+h1{
+	color: #hexade;
+	letter-spacing:xpx;
+	text-transform: capitalize;
+	width: 650px;
+	text-shadow: xpx ypx color;
+}
+
+p1{
+	width: 650px;
+	text-align: justify;
+}
+
+
+
+
+/* style11.css escolher a quantidade de sombra para escolher na horizontal depois 
+a quantidade de sombra na vertical e depois a cor. a sombra pode ser negativo ou positivo.
+*/
